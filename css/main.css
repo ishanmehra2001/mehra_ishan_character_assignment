@@ -144,7 +144,7 @@ footer {
     background-image: url(../images/marco.jpeg);
     background-repeat: no-repeat;
     background-size: 55vh;
-    background-position: 40px bottom;
+    background-position: 40px center;
     z-index: 5000;
     display: none;
 }
